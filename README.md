@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdu07024&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdu07024&count_private=true&show_icons=true)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sdu07024)](https://solved.ac/sdu07024)
