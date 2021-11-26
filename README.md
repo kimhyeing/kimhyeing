@@ -12,7 +12,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdu07024&count_private=true&show_icons=true)   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sdu07024)](https://solved.ac/sdu07024)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdu07024&count_private=true&show_icons=true) [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sdu07024)](https://solved.ac/sdu07024)
 
 <!--
 **sdu07024/sdu07024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
