@@ -12,9 +12,9 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdu07024&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyeing&count_private=true&show_icons=true)
 <!--
-**sdu07024/sdu07024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kimhyeing/kimhyeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
